@@ -501,8 +501,10 @@ form{
     background-image:url(../img/Linkedin.svg);
     transform: translateY(-2px);
 }
+
 .footer-social-icon-mail{
     width: 24px;
     height: 17px;
     background-image: url(../img/Email.svg);
 }
+
